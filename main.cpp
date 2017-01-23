@@ -24,8 +24,8 @@
 // 5.本项目的其他文件
 
 #include <stdio.h>
-#include "src/func.h"  // include后有空格
 #include <string>
+#include "src/func.h"  // include后有空格
 
 // 下面规则中，如果是STL相似的实体，可以参照STL命名规则适当调整 如 INT_MAX
 // 宏名应该大写除非必要，不要使用宏定义

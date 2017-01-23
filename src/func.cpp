@@ -11,11 +11,11 @@ MyNamespace::TestStyle::TestStyle() {
   type_ = "Coding Style";
 }
 
-std::string MyNamespace::TestStyle::GetStyleType() {
+std::string MyNamespace::TestStyle::get_type() {
   std::cout << type_ << std::endl;
   return type_;
 }
 
 void MyNamespace::TestFriend::say_hello(MyNamespace::TestStyle* t) {
-  t->GetStyleType();
+  t->get_type();
 }
