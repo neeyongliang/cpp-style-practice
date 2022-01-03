@@ -1,5 +1,5 @@
-coding-style
--------------
+CPP Style Practice
+------------------
 
 ## Purpose
 
@@ -28,6 +28,8 @@ If you want compile, need installed cmake.
 cd build
 cmake ..
 ```
+
+---------------------------------------
 
 ## 目的
 
