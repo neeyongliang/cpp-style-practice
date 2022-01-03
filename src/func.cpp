@@ -1,7 +1,7 @@
 // Copyright 2017, XXX Inc.
 // All rights reserved.
 //
-// Author: EMAIL_ADDRESS (wikinee)
+// Author: EMAIL_ADDRESS (yongliang)
 //
 // This file is for test style
 
